@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'DIN Condensed';
+  src: url('Fonts/DINCondensedBold.eot');
+  src: url('Fonts/DINCondensedBold.?iefix') format('eot'),
+       url('Fonts/DINCondensedBold.woff') format('woff'),
+       url('Fonts/DINCondensedBold.ttf') format('truetype'),
+       url('Fonts/DINCondensedBold.svg#DINCondensed-Bold') format('svg');
+}

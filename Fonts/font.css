@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'DIN Condensed';
+  src: url('Fonts/DINCondensedBold.eot');
+  src: url('Fonts/DINCondensedBold.eot?iefix') format('eot');
+       url('Fonts/DINCondensedBold.woff2') format('woff2');
+src: url('Fonts/DINCondensedBold.svg#DINCondensed-Bold') format('svg'),
+       url('Fonts/DINCondensedBold.ttf') format('truetype'),
+       url('Fonts/DINCondensedBold.woff') format('woff');
+
+}
+
+@font-face {
+  font-family: 'DIN Condensed';
+  src: url('Fonts/DINCondensedBold.svg#DINCondensed-Bold') format('svg'),
+       url('Fonts/DINCondensedBold.ttf') format('truetype'),
+       url('Fonts/DINCondensedBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+    @font-face {
+            font-family: 'DIN Condensed Bold';
+            src: url('extern/Fonts/DIN Condensed Bold.eot');
+            src: url('extern/Fonts/DIN Condensed Bold?iefix') format('eot'), url('extern/Fonts/DINCondensed-Bold.woff') format('woff'), url('extern/Fonts/DINCondensed-Bold.ttf') format('truetype'), url('extern/Fonts/DINCondensed-Bold.svg#webfont') format('svg');
+        }
